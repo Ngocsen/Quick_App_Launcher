@@ -1,0 +1,261 @@
+{
+  "fa-IR": {
+    "1": "👋🏻 سلام ! این میان‌بر به یک افزونه برای نمایش لیست برنامه‌ها نیاز دارد، لطفاً همین حالا افزونه را نصب کنید.",
+    "2": "نصب",
+    "3": "رد کردن",
+    "4": "هیچ برنامه‌ای در لیست وجود ندارد، لطفاً برنامه‌ها را از میان‌بر \"Quick App Launcher\" اضافه کنید.",
+    "5": "این افزونه را اضافه کنید تا لیست برنامه‌های شما نمایش داده شود !!!"
+  },
+  "hu-HU": {
+    "1": "👋🏻 Szia! Ehhez a parancsikonhoz egy bővítmény szükséges az alkalmazáslista megjelenítéséhez, telepítsd most a bővítményt.",
+    "2": "Telepítés",
+    "3": "Kihagyás",
+    "4": "Nincs alkalmazás a listában, kérlek adj hozzá alkalmazásokat a \"Quick App Launcher\" parancsikonból.",
+    "5": "Add hozzá ezt a bővítményt az alkalmazáslista megjelenítéséhez !!!"
+  },
+  "ja": {
+    "1": "👋🏻 こんにちは！このショートカットはアプリ一覧を表示するためにプラグインが必要です。今すぐプラグインをインストールしてください。",
+    "2": "インストール",
+    "3": "スキップ",
+    "4": "リストにアプリがありません。「Quick App Launcher」ショートカットからアプリを追加してください。",
+    "5": "このプラグインを追加して、アプリ一覧を表示しましょう！！！"
+  },
+  "pt-BR": {
+    "1": "👋🏻 Olá! Este atalho precisa de um plugin para exibir a lista de aplicativos. Instale o plugin agora mesmo.",
+    "2": "Instalar",
+    "3": "Ignorar",
+    "4": "Não há aplicativos na lista. Adicione aplicativos pelo atalho \"Quick App Launcher\".",
+    "5": "Adicione este plugin para exibir sua lista de aplicativos !!!"
+  },
+  "sw-KE": {
+    "1": "👋🏻 Habari! Njia hii ya mkato inahitaji programu-jalizi kuonyesha orodha ya programu. Sakinisha programu-jalizi sasa.",
+    "2": "Sakinisha",
+    "3": "Ruka",
+    "4": "Hakuna programu kwenye orodha. Tafadhali ongeza programu kutoka kwa njia ya mkato \"Quick App Launcher\".",
+    "5": "Ongeza programu-jalizi hii kuonyesha orodha yako ya programu !!!"
+  },
+  "es-MX": {
+    "1": "👋🏻 ¡Hola! Este atajo necesita un complemento para mostrar la lista de aplicaciones. Instala el complemento ahora mismo.",
+    "2": "Instalar",
+    "3": "Omitir",
+    "4": "No hay aplicaciones en la lista. Agrega aplicaciones desde el atajo \"Quick App Launcher\".",
+    "5": "¡Agrega este complemento para mostrar tu lista de aplicaciones !!!"
+  },
+  "hi-IN": {
+    "1": "👋🏻 नमस्ते! इस शॉर्टकट को ऐप्स की सूची दिखाने के लिए एक प्लगइन की आवश्यकता है। कृपया अभी प्लगइन इंस्टॉल करें।",
+    "2": "इंस्टॉल करें",
+    "3": "छोड़ें",
+    "4": "सूची में कोई ऐप नहीं है। कृपया \"Quick App Launcher\" शॉर्टकट से ऐप्स जोड़ें।",
+    "5": "अपनी ऐप्स सूची दिखाने के लिए यह प्लगइन जोड़ें !!!"
+  },
+  "ms-MY": {
+    "1": "👋🏻 Hai! Pintasan ini memerlukan pemalam untuk memaparkan senarai aplikasi. Sila pasang pemalam sekarang.",
+    "2": "Pasang",
+    "3": "Langkau",
+    "4": "Tiada aplikasi dalam senarai. Sila tambah aplikasi daripada pintasan \"Quick App Launcher\".",
+    "5": "Tambah pemalam ini untuk memaparkan senarai aplikasi anda !!!"
+  },
+  "zh-TW": {
+    "1": "👋🏻 你好！此捷徑需要一個外掛程式來顯示應用程式列表，請立即安裝該外掛程式。",
+    "2": "安裝",
+    "3": "跳過",
+    "4": "列表中沒有應用程式，請從「Quick App Launcher」捷徑新增應用程式。",
+    "5": "請新增此外掛程式以顯示您的應用程式列表！！！"
+  },
+  "it-IT": {
+    "1": "👋🏻 Ciao! Questa scorciatoia richiede un plugin per visualizzare l'elenco delle app. Installa il plugin ora.",
+    "2": "Installa",
+    "3": "Salta",
+    "4": "Nessuna app nell'elenco. Aggiungi app dalla scorciatoia \"Quick App Launcher\".",
+    "5": "Aggiungi questo plugin per visualizzare il tuo elenco di app !!!"
+  },
+  "fil-PH": {
+    "1": "👋🏻 Kumusta! Ang shortcut na ito ay nangangailangan ng plugin upang ipakita ang listahan ng mga app. I-install ang plugin ngayon.",
+    "2": "I-install",
+    "3": "Laktawan",
+    "4": "Walang app sa listahan. Mangyaring magdagdag ng mga app mula sa shortcut na \"Quick App Launcher\".",
+    "5": "Idagdag ang plugin na ito upang ipakita ang iyong listahan ng mga app !!!"
+  },
+  "bn-BD": {
+    "1": "👋🏻 হ্যালো! এই শর্টকাটটি অ্যাপের তালিকা প্রদর্শনের জন্য একটি প্লাগইন প্রয়োজন। এখনই প্লাগইনটি ইনস্টল করুন।",
+    "2": "ইনস্টল করুন",
+    "3": "এড়িয়ে যান",
+    "4": "তালিকায় কোনো অ্যাপ নেই। অনুগ্রহ করে \"Quick App Launcher\" শর্টকাট থেকে অ্যাপ যোগ করুন।",
+    "5": "আপনার অ্যাপের তালিকা প্রদর্শনের জন্য এই প্লাগইনটি যোগ করুন !!!"
+  },
+  "id-ID": {
+    "1": "👋🏻 Halo! Pintasan ini memerlukan plugin untuk menampilkan daftar aplikasi. Pasang plugin sekarang.",
+    "2": "Pasang",
+    "3": "Lewati",
+    "4": "Tidak ada aplikasi dalam daftar. Silakan tambahkan aplikasi dari pintasan \"Quick App Launcher\".",
+    "5": "Tambahkan plugin ini untuk menampilkan daftar aplikasi Anda !!!"
+  },
+  "nb-NO": {
+    "1": "👋🏻 Hei! Denne snarveien trenger et plugin for å vise applisten. Installer plugin nå.",
+    "2": "Installer",
+    "3": "Hopp over",
+    "4": "Ingen apper i listen. Legg til apper fra snarveien \"Quick App Launcher\".",
+    "5": "Legg til dette plugin for å vise applisten din !!!"
+  },
+  "en-GB": {
+    "1": "👋🏻 Hello! This shortcut needs a plugin to display the app list. Please install the plugin now.",
+    "2": "Install",
+    "3": "Skip",
+    "4": "No apps in the list. Please add apps from the \"Quick App Launcher\" shortcut.",
+    "5": "Add this plugin to display your app list !!!"
+  },
+  "es-ES": {
+    "1": "👋🏻 ¡Hola! Este atajo necesita un complemento para mostrar la lista de aplicaciones. Instala el complemento ahora.",
+    "2": "Instalar",
+    "3": "Omitir",
+    "4": "No hay aplicaciones en la lista. Añade aplicaciones desde el atajo \"Quick App Launcher\".",
+    "5": "¡Añade este complemento para mostrar tu lista de aplicaciones !!!"
+  },
+  "da-DK": {
+    "1": "👋🏻 Hej! Denne genvej kræver et plugin for at vise app-listen. Installer plugin nu.",
+    "2": "Installer",
+    "3": "Spring over",
+    "4": "Ingen apps i listen. Tilføj apps fra genvejen \"Quick App Launcher\".",
+    "5": "Tilføj dette plugin for at vise din app-liste !!!"
+  },
+  "ar": {
+    "1": "👋🏻 مرحباً! يحتاج هذا الاختصار إلى إضافة لعرض قائمة التطبيقات. يرجى تثبيت الإضافة الآن.",
+    "2": "تثبيت",
+    "3": "تخطي",
+    "4": "لا توجد تطبيقات في القائمة. يرجى إضافة تطبيقات من اختصار \"Quick App Launcher\".",
+    "5": "أضف هذه الإضافة لعرض قائمة تطبيقاتك !!!"
+  },
+  "fi-FI": {
+    "1": "👋🏻 Hei! Tämä pikakuvake tarvitsee liitännäisen sovellusluettelon näyttämiseen. Asenna liitännäinen nyt.",
+    "2": "Asenna",
+    "3": "Ohita",
+    "4": "Ei sovelluksia luettelossa. Lisää sovelluksia pikakuvakkeesta \"Quick App Launcher\".",
+    "5": "Lisää tämä liitännäinen näyttääksesi sovellusluettelosi !!!"
+  },
+  "tr-TR": {
+    "1": "👋🏻 Merhaba! Bu kısayol, uygulama listesini görüntülemek için bir eklentiye ihtiyaç duyar. Lütfen eklentiyi hemen yükleyin.",
+    "2": "Yükle",
+    "3": "Atla",
+    "4": "Listede uygulama yok. Lütfen \"Quick App Launcher\" kısayolundan uygulama ekleyin.",
+    "5": "Uygulama listenizi görüntülemek için bu eklentiyi ekleyin !!!"
+  },
+  "zh-CN": {
+    "1": "👋🏻 你好！此快捷指令需要一个插件来显示应用列表，请立即安装该插件。",
+    "2": "安装",
+    "3": "跳过",
+    "4": "列表中没有应用，请从“Quick App Launcher”快捷指令添加应用。",
+    "5": "请添加此插件以显示您的应用列表！！！"
+  },
+  "cs-CZ": {
+    "1": "👋🏻 Ahoj! Tato zkratka potřebuje plugin pro zobrazení seznamu aplikací. Nainstalujte plugin nyní.",
+    "2": "Nainstalovat",
+    "3": "Přeskočit",
+    "4": "V seznamu nejsou žádné aplikace. Přidejte aplikace ze zkratky \"Quick App Launcher\".",
+    "5": "Přidejte tento plugin pro zobrazení vašeho seznamu aplikací !!!"
+  },
+  "sv-SE": {
+    "1": "👋🏻 Hej! Denna genväg behöver ett plugin för att visa applistan. Installera plugin nu.",
+    "2": "Installera",
+    "3": "Hoppa över",
+    "4": "Inga appar i listan. Lägg till appar från genvägen \"Quick App Launcher\".",
+    "5": "Lägg till detta plugin för att visa din applista !!!"
+  },
+  "el-GR": {
+    "1": "👋🏻 Γεια σας! Αυτή η συντόμευση χρειάζεται ένα πρόσθετο για να εμφανίσει τη λίστα εφαρμογών. Εγκαταστήστε το πρόσθετο τώρα.",
+    "2": "Εγκατάσταση",
+    "3": "Παράλειψη",
+    "4": "Δεν υπάρχουν εφαρμογές στη λίστα. Προσθέστε εφαρμογές από τη συντόμευση \"Quick App Launcher\".",
+    "5": "Προσθέστε αυτό το πρόσθετο για να εμφανίσετε τη λίστα εφαρμογών σας !!!"
+  },
+  "pt-PT": {
+    "1": "👋🏻 Olá! Este atalho precisa de um plugin para exibir a lista de aplicações. Instale o plugin agora.",
+    "2": "Instalar",
+    "3": "Ignorar",
+    "4": "Não há aplicações na lista. Adicione aplicações a partir do atalho \"Quick App Launcher\".",
+    "5": "Adicione este plugin para exibir a sua lista de aplicações !!!"
+  },
+  "uk-UA": {
+    "1": "👋🏻 Привіт! Цей швидкий виклик потребує плагіна для відображення списку додатків. Встановіть плагін зараз.",
+    "2": "Встановити",
+    "3": "Пропустити",
+    "4": "У списку немає додатків. Будь ласка, додайте додатки з швидкого виклику \"Quick App Launcher\".",
+    "5": "Додайте цей плагін, щоб відобразити список ваших додатків !!!"
+  },
+  "de-DE": {
+    "1": "👋🏻 Hallo! Dieser Kurzbefehl benötigt ein Plugin, um die App-Liste anzuzeigen. Installiere jetzt das Plugin.",
+    "2": "Installieren",
+    "3": "Überspringen",
+    "4": "Keine Apps in der Liste. Bitte füge Apps aus dem Kurzbefehl \"Quick App Launcher\" hinzu.",
+    "5": "Füge dieses Plugin hinzu, um deine App-Liste anzuzeigen !!!"
+  },
+  "nl-NL": {
+    "1": "👋🏻 Hallo! Deze snelkoppeling heeft een plug-in nodig om de app-lijst weer te geven. Installeer de plug-in nu.",
+    "2": "Installeren",
+    "3": "Overslaan",
+    "4": "Geen apps in de lijst. Voeg apps toe vanuit de snelkoppeling \"Quick App Launcher\".",
+    "5": "Voeg deze plug-in toe om uw app-lijst weer te geven !!!"
+  },
+  "th-TH": {
+    "1": "👋🏻 สวัสดี! ทางลัดนี้จำเป็นต้องมีปลั๊กอินเพื่อแสดงรายการแอป โปรดติดตั้งปลั๊กอินทันที",
+    "2": "ติดตั้ง",
+    "3": "ข้าม",
+    "4": "ไม่มีแอปในรายการ กรุณาเพิ่มแอปจากทางลัด \"Quick App Launcher\"",
+    "5": "เพิ่มปลั๊กอินนี้เพื่อแสดงรายการแอปของคุณ !!!"
+  },
+  "ru": {
+    "1": "👋🏻 Привет! Для этого быстрого действия требуется плагин для отображения списка приложений. Установите плагин сейчас.",
+    "2": "Установить",
+    "3": "Пропустить",
+    "4": "В списке нет приложений. Пожалуйста, добавьте приложения из быстрого действия \"Quick App Launcher\".",
+    "5": "Добавьте этот плагин, чтобы отобразить список ваших приложений !!!"
+  },
+  "ko-KR": {
+    "1": "👋🏻 안녕하세요! 이 단축어는 앱 목록을 표시하기 위해 플러그인이 필요합니다. 지금 플러그인을 설치하세요.",
+    "2": "설치",
+    "3": "건너뛰기",
+    "4": "목록에 앱이 없습니다. \"Quick App Launcher\" 단축어에서 앱을 추가해 주세요.",
+    "5": "앱 목록을 표시하려면 이 플러그인을 추가하세요 !!!"
+  },
+  "pl-PL": {
+    "1": "👋🏻 Cześć! Ten skrót wymaga wtyczki do wyświetlania listy aplikacji. Zainstaluj wtyczkę teraz.",
+    "2": "Zainstaluj",
+    "3": "Pomiń",
+    "4": "Brak aplikacji na liście. Dodaj aplikacje ze skrótu \"Quick App Launcher\".",
+    "5": "Dodaj tę wtyczkę, aby wyświetlić listę aplikacji !!!"
+  },
+  "ro-RO": {
+    "1": "👋🏻 Bună! Această comandă rapidă necesită un plugin pentru a afișa lista de aplicații. Instalează pluginul acum.",
+    "2": "Instalează",
+    "3": "Sari peste",
+    "4": "Nu există aplicații în listă. Adaugă aplicații din comanda rapidă \"Quick App Launcher\".",
+    "5": "Adaugă acest plugin pentru a afișa lista ta de aplicații !!!"
+  },
+  "en-US": {
+    "1": "👋🏻 Hello! This shortcut needs a plugin to display the app list. Please install the plugin now.",
+    "2": "Install",
+    "3": "Skip",
+    "4": "No apps in the list. Please add apps from the \"Quick App Launcher\" shortcut.",
+    "5": "Add this plugin to display your app list !!!"
+  },
+  "fr-FR": {
+    "1": "👋🏻 Bonjour ! Ce raccourci a besoin d'un plugin pour afficher la liste des applications. Installez le plugin maintenant.",
+    "2": "Installer",
+    "3": "Ignorer",
+    "4": "Aucune application dans la liste. Veuillez ajouter des applications depuis le raccourci \"Quick App Launcher\".",
+    "5": "Ajoutez ce plugin pour afficher votre liste d'applications !!!"
+  },
+  "vi-VN": {
+    "1": "👋🏻 Xin chào ! Phím tắt này cần một trình cắm để hiển thị danh sách ứng dụng,hãy cài đặt trình cắm ngay bây giờ.",
+    "2": "Cài đặt",
+    "3": "Bỏ qua",
+    "4": "Chưa có ứng dụng trong danh sách vui lòng thêm ứng dụng từ phím tắt \"Quick App Launcher\"",
+    "5": "Hãy thêm trình cắm này để hiển thị danh sách ứng dụng của bạn !!!"
+  },
+  "fr-CA": {
+    "1": "👋🏻 Bonjour ! Ce raccourci a besoin d'un plugin pour afficher la liste des applications. Installez le plugin maintenant.",
+    "2": "Installer",
+    "3": "Ignorer",
+    "4": "Aucune application dans la liste. Veuillez ajouter des applications depuis le raccourci \"Quick App Launcher\".",
+    "5": "Ajoutez ce plugin pour afficher votre liste d'applications !!!"
+  }
+}
